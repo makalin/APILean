@@ -1,6 +1,6 @@
 # APILean
 
-![APILean Logo](apilean_logo.png)
+![APILean Logo](apilean_logo.png?v1)
 
 A minimalist, no-nonsense API testing tool built to avoid the bloat of Postman, Insomnia, and similar apps. No signups, no forced cloud sync, no disk-hogging collections—just a lean, local app for sending HTTP requests and getting work done.
 
